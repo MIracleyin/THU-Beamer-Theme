@@ -4,6 +4,6 @@
 *.nav
 *.out
 *.snm
-*.synctex,gz
+*.synctex.gz
 *.toc
 *.vrb
